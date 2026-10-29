@@ -38,6 +38,8 @@ Run the full pipeline with default settings:
 python main.py --input anomaly_detection.csv --output detected_anomalies.csv
 ```
 
+For a step-by-step guide to testing anomaly detection on feedback, see [Test anomaly detection on feedback](testing-anomaly-detection.md).
+
 ### Advanced Usage
 
 Customize the pipeline with additional parameters:
